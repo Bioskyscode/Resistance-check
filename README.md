@@ -4,11 +4,11 @@ The system is designed to do a parallel resistance check.
 
 ## Components
 
-Arduino-Uno
-Resistor Board
-Cables
-Unknown Value Resistors
-100k, 1000k ohm Resistors
+1. Arduino-Uno
+2. Resistor Board
+3. Cables
+4. Unknown Value Resistors
+5. 100k, 1000k ohm Resistors
 
 ## Design Approach
 
